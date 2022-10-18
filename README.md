@@ -1,5 +1,17 @@
 # Dragon-News-client-module-60
 
+### Live link [Click here](https://dragon-news-4e9ab.web.app/)
+
+### Code [Client](https://github.com/nurulcse7/dragon-news-client-module-60)
+### Code [Server](https://github.com/nurulcse7/dragon-news-server-m60)
+
+### Technology
+* JavaScript 
+* React 
+* ReactBootstrap 
+* Authentication firebase
+* Deploy In firebase 
+
 
 <!-- 
 # Getting Started with Create React App
